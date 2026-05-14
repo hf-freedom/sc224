@@ -1,0 +1,10 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: task-manager-backend
+
+logging:
+  level:
+    com.taskmanager: DEBUG

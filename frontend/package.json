@@ -1,0 +1,21 @@
+{
+  "name": "task-manager-frontend",
+  "version": "1.0.0",
+  "description": "Project Task Dependency Management System Frontend",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --port 3001",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^2.7.14",
+    "vue-router": "^3.6.5",
+    "axios": "^1.6.0",
+    "element-ui": "^2.15.14"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "vue-template-compiler": "^2.7.14"
+  }
+}
